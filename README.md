@@ -19,4 +19,5 @@ You can find the detailed process in [OrganMNIST_Report](https://github.com/Garr
 2. **Model Evaluation**
 - F1 score
 - Precision
+- Confusion Matrix
 - AUC-ROC
