@@ -1,5 +1,5 @@
 # Customize-CNN-MLP-KNN-OrganMNIST
-Compare Customize CNN,MLP Models with Traditional KNN Model on OrganMNIST Dataset
+Compare Customize CNN,MLP Models with Traditional KNN Model on OrganMNIST Dataset<br>
 Below is the overview of the whole process.<br>
 You can find the detailed process in [OrganMNIST_Report](https://github.com/GarryGeng/Customize-CNN-MLP-KNN-OrganMNIST/blob/main/OrganMNIST_Report.pdf)
 
